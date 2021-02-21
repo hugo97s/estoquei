@@ -47,3 +47,5 @@ When "Paulo" seleciona o "endereço" da loja "ArcoGix"
 Then "Paulo" é redirecionado para a página “mapa”
 And "Paulo" consegue ver a "localização" da loja "ArcoGix"
 Then "Paulo" finaliza sua atividade.
+
+MUDANÇA SIGNIFICATIVA 
