@@ -46,3 +46,5 @@ And “Paulo” está na “Página de Gerenciamento de Lojas” onde visualiza 
 When "Paulo" seleciona o "colaboradores" da loja "ArcoGix"	     
 Then "Paulo" é redirecionado para a página "colaboradores da loja"
 And "Paulo" consegue ver todos os "colaboradores" da loja "ArcoGix"
+
+Commit 1
