@@ -44,6 +44,7 @@ Cenário: visualizar colaboradores de uma loja
 Given O "Gestor" de uma rede de empresas chamado "Paulo" está logado como "administrador"
 And “Paulo” está na “Página de Gerenciamento de Lojas” onde visualiza uma lista com todas as lojas
 <<<<<<< HEAD
+<<<<<<< HEAD
 When "Paulo" seleciona o "endereço" da loja "ArcoGix"	     
 Then "Paulo" é redirecionado para a página “mapa”
 And "Paulo" consegue ver a "localização" da loja "ArcoGix"
@@ -53,4 +54,5 @@ MUDANÇA SIGNIFICATIVA
 
 commit main
 Commit 1
-commit
+Commit 2
+
