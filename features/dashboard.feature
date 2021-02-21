@@ -48,3 +48,5 @@ Then "Paulo" é redirecionado para a página "colaboradores da loja"
 And "Paulo" consegue ver todos os "colaboradores" da loja "ArcoGix"
 
 Commit 1
+
+Commit 2
