@@ -49,3 +49,5 @@ And "Paulo" consegue ver a "localização" da loja "ArcoGix"
 Then "Paulo" finaliza sua atividade.
 
 MUDANÇA SIGNIFICATIVA 
+
+commit main
