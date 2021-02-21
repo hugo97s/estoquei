@@ -36,5 +36,7 @@ Cenário: visualizar localização de uma loja
 
 Given O "Gestor" de uma rede de empresas chamado "Paulo" está logado como "administrador"
 And “Paulo” está na “Página de Gerenciamento de Lojas” onde visualiza uma lista com todas as lojas
-When "Paulo" seleciona o "endereço" da loja "ArcoGix"	     Then "Paulo" é redirecionado para a página “mapa”
-	And "Paulo" consegue ver a "localização" da loja "ArcoGix"
+When "Paulo" seleciona o "endereço" da loja "ArcoGix"	     
+Then "Paulo" é redirecionado para a página “mapa”
+And "Paulo" consegue ver a "localização" da loja "ArcoGix"
+Then "Paulo" finaliza sua atividade.
